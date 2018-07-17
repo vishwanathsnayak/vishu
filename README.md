@@ -6,6 +6,7 @@ A simple application to display 5-day weather forecast using the OpenWeatherMap 
 
 ### Demo
 https://vishwanathsnayak.github.io/vishwa/
+(The above deployed Github url not working gives error bundle.js not found checkout local to start running.)
 
 ## Pre-requisites
 * Node.js 9.8.0 and above
@@ -14,7 +15,7 @@ https://vishwanathsnayak.github.io/vishwa/
 ```
 git clone
 cd react-weather-forecast
-npm i
+npm install
 ```
 
 
