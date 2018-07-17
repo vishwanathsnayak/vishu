@@ -5,7 +5,7 @@ Vishwanath
 A simple application to display 5-day weather forecast using the OpenWeatherMap API. 
 
 ### Demo
-
+https://vishwanathsnayak.github.io/vishwa/
 
 ## Pre-requisites
 * Node.js 9.8.0 and above
